@@ -17,7 +17,7 @@
 4. Recomanació: Concloeu l'informe escollint l'eina que considereu més adequada per al personal tècnic de l'empresa i justifiqueu la vostra elecció.
 
 
-** Les contrasenyes febles o reutilitzades son un gran risc per a qualsevol empresa, ja que aquests tipus de contrasenyes no tenen prou seguretat per afrontar un atac. **
+**Les contrasenyes febles o reutilitzades son un gran risc per a qualsevol empresa, ja que aquests tipus de contrasenyes no tenen prou seguretat per afrontar un atac.**
 Que a de tindre la teva contrasenya perque sigui forta?
 Sempre procura de posar:
 
@@ -25,6 +25,8 @@ Sempre procura de posar:
 * Lletras majusculas i minuscules (aA).
 * Caracters especials (_-*).
 
+**La funció principal d'un gestor de contrasenyes**
+Desar i xifrar totes les teves credencials en un lloc segur, protegides per una única contrasenya mestra, per no haver de memoritzar-ne cap altra i utilitzar claus úniques i robustes a cada servei.
 
 ## Fase 2: Guia d'Ús Tècnica (Manual Operatiu)
 #### Utilitzant l'eina que heu seleccionat a la Fase 1 (Bitwarden, KeePassX, o similar), heu de crear una Guia d'Ús per a l'Equip Tècnic. Aquesta guia ha de ser clara i basada en captures de pantalla i instruccions pas a pas.
