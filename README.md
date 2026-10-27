@@ -2,11 +2,6 @@
 
 ## Fase 1: Anàlisi i Justificació (Document d'Informe)
 #### Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcció i comparin les opcions. Aquest informe ha d'incloure:
-1. Introducció i Justificació:
-    * Explicació de perquè les contrasenyes febles o reutilitzades són un risc crític per a l'empresa (atac de diccionari, credential stuffing, etc.)
-
-    * La funció crucial d'un gestor de contrasenyes per mitigar aquests riscos.
-
 2. Comparativa Tècnica: Realitzeu una taula comparativa detallada entre:
     * Bitwarden (Alternativa Online / Núvol): Analitzeu la sincronització, el model de seguretat (xifratge end-to-end), la facilitat d'accés des de múltiples dispositius i el cost/model freemium.
 
@@ -16,6 +11,7 @@
 
 4. Recomanació: Concloeu l'informe escollint l'eina que considereu més adequada per al personal tècnic de l'empresa i justifiqueu la vostra elecció.
 
+### 1. Introducció i Justificació:
 
 **Les contrasenyes febles o reutilitzades son un gran risc per a qualsevol empresa, ja que aquests tipus de contrasenyes no tenen prou seguretat per afrontar un atac.**
 
@@ -29,6 +25,32 @@ Sempre procura de posar:
 **La funció principal d'un gestor de contrasenyes**
 
 Desar i xifrar totes les teves credencials en un lloc segur, protegides per una única contrasenya mestra, per no haver de memoritzar-ne cap altra i utilitzar claus úniques i robustes a cada servei.
+
+### Bitwarden (Alternativa Online / Núvol)
+* Emmagatzematge i Arquitectura: Basat en el núvol.
+
+* Model de Seguretat: Xifratge d'extrem a extrem amb AES-256 i derivació de clau mitjançant PBKDF2 o Argon2id abans de la transmissió.
+
+* Sincronització: Automàtica, nativa i en temps real entre tots els dispositius associats al compte.
+
+* Accés Multi-dispositiu: Excel·lent i homogeni amb aplicacions oficials per a Windows, macOS, Linux, iOS, Android i integració nativa en navegadors web.
+
+* Portabilitat: Les dades s'emmagatzemen al servei; és possible exportar la informació en formats JSON o CSV.
+
+* Cost / Model Freemium: Model freemium amb pla gratuït molt complet i opcions de pagament per a funcions avançades.
+
+### KeePassXC (Alternativa Offline / Escriptori)
+* Emmagatzematge i Arquitectura: Completament local. Les dades es guarden en un arxiu físic amb format KDBX.
+
+* Model de Seguretat: Xifratge local robust de l'arxiu KDBX amb algoritmes a escollir combinats amb Argon2/PBKDF2. Cap dada surt de l'equip.
+
+* Sincronització: Manual o gestionada per l'usuari mitjançant serveis de tercers.
+
+* Accés Multi-dispositiu: Excel·lent en entorns d'escriptori. A dispositius mòbils depèn d'aplicacions compatibles desenvolupades per tercers.
+
+* Portabilitat: Portabilitat absoluta. Tota la base de dades s'empaqueta en un únic arxiu KDBX fàcil de moure, copiar o desar.
+
+* Cost / Model Open Source: 100% de codi obert, gratuït, sense subscripcions, sense publicitat i sense funcions bloquejades.
 
 ## Fase 2: Guia d'Ús Tècnica (Manual Operatiu)
 #### Utilitzant l'eina que heu seleccionat a la Fase 1 (Bitwarden, KeePassX, o similar), heu de crear una Guia d'Ús per a l'Equip Tècnic. Aquesta guia ha de ser clara i basada en captures de pantalla i instruccions pas a pas.
