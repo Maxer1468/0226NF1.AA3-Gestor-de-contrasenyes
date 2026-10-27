@@ -2,14 +2,9 @@
 
 ## Fase 1: Anàlisi i Justificació (Document d'Informe)
 #### Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcció i comparin les opcions. Aquest informe ha d'incloure:
-2. Comparativa Tècnica: Realitzeu una taula comparativa detallada entre:
-    * Bitwarden (Alternativa Online / Núvol): Analitzeu la sincronització, el model de seguretat (xifratge end-to-end), la facilitat d'accés des de múltiples dispositius i el cost/model freemium.
 
-    * KeePassX / KeePassXC (Alternativa Offline / Escriptori): Analitzeu l'emmagatzematge local de l'arxiu (KDBX), la independència del núvol, el model open source i la portabilitat de l'arxiu.
 
-3. Avantatges i Inconvenients: Resumiu els principals pros i contres de cada model (online vs. offline) des del punt de vista de seguretat, usabilitat i continuïtat del negoci.
 
-4. Recomanació: Concloeu l'informe escollint l'eina que considereu més adequada per al personal tècnic de l'empresa i justifiqueu la vostra elecció.
 
 ### 1. Introducció i Justificació:
 
@@ -25,6 +20,8 @@ Sempre procura de posar:
 **La funció principal d'un gestor de contrasenyes**
 
 Desar i xifrar totes les teves credencials en un lloc segur, protegides per una única contrasenya mestra, per no haver de memoritzar-ne cap altra i utilitzar claus úniques i robustes a cada servei.
+
+### 2. Comparativa Tècnica: Realitzeu una taula comparativa detallada entre:
 
 ### Bitwarden (Alternativa Online / Núvol)
 * Emmagatzematge i Arquitectura: Basat en el núvol.
@@ -51,6 +48,23 @@ Desar i xifrar totes les teves credencials en un lloc segur, protegides per una 
 * Portabilitat: Portabilitat absoluta. Tota la base de dades s'empaqueta en un únic arxiu KDBX fàcil de moure, copiar o desar.
 
 * Cost / Model Open Source: 100% de codi obert, gratuït, sense subscripcions, sense publicitat i sense funcions bloquejades.
+
+### 3. Avantatges i Inconvenients: Resumiu els principals pros i contres de cada model (online vs. offline) des del punt de vista de seguretat, usabilitat i continuïtat del negoci.
+
+### Bitwarden (Online)
+Pros: Sincronització fluida, compartició segura de credencials entre equips i gestió centralitzada amb polítiques d'auditoria.
+
+Contres: Dependència de la xarxa/servidor i major superfície d'atac potencial per estar connectat a Internet.
+
+### KeePassXC (Offline)
+Pros: Control absolut de la base de dades, independència total de servidors externs i ideal per a entorns d'alta seguretat sense Internet.
+
+Contres: Sincronització complexa, dificultat per compartir claus en temps real i risc de pèrdua si no es fan backups locals.
+
+### 4. Recomanació: Concloeu l'informe escollint l'eina que considereu més adequada per al personal tècnic de l'empresa i justifiqueu la vostra elecció.
+
+Per al personal tècnic de l'empresa es recomana més el Bitwarden, ja que ofereix un equilibri ideal entre seguretat, operativitat i usabilitat. La seva sincronització automàtica entre navegadors i eines CLI agilitza el treball diari, permet compartir credencials d'infraestructura de forma segura entre companys i ofereix auditoria centralitzada.
+
 
 ## Fase 2: Guia d'Ús Tècnica (Manual Operatiu)
 #### Utilitzant l'eina que heu seleccionat a la Fase 1 (Bitwarden, KeePassX, o similar), heu de crear una Guia d'Ús per a l'Equip Tècnic. Aquesta guia ha de ser clara i basada en captures de pantalla i instruccions pas a pas.
