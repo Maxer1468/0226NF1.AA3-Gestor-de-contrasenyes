@@ -17,7 +17,7 @@
 4. Recomanació: Concloeu l'informe escollint l'eina que considereu més adequada per al personal tècnic de l'empresa i justifiqueu la vostra elecció.
 
 
-#### Les contrasenyes febles o reutilitzades son un gran risc per a qualsevol empresa, ja que aquests tipus de contrasenyes no tenen prou seguretat per afrontar un atac.
+** Les contrasenyes febles o reutilitzades son un gran risc per a qualsevol empresa, ja que aquests tipus de contrasenyes no tenen prou seguretat per afrontar un atac. **
 Que a de tindre la teva contrasenya perque sigui forta?
 Sempre procura de posar:
 
