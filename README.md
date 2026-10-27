@@ -3,8 +3,8 @@
 ## Fase 1: Anàlisi i Justificació (Document d'Informe)
 #### Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcció i comparin les opcions. Aquest informe ha d'incloure:
 
-
-
+<br>
+<br>
 
 ### 1. Introducció i Justificació:
 
@@ -20,6 +20,8 @@ Sempre procura de posar:
 **La funció principal d'un gestor de contrasenyes**
 
 Desar i xifrar totes les teves credencials en un lloc segur, protegides per una única contrasenya mestra, per no haver de memoritzar-ne cap altra i utilitzar claus úniques i robustes a cada servei.
+
+<br>
 
 ### 2. Comparativa Tècnica: Realitzeu una taula comparativa detallada entre:
 
@@ -49,6 +51,8 @@ Desar i xifrar totes les teves credencials en un lloc segur, protegides per una 
 
 * Cost / Model Open Source: 100% de codi obert, gratuït, sense subscripcions, sense publicitat i sense funcions bloquejades.
 
+<br>
+
 ### 3. Avantatges i Inconvenients: Resumiu els principals pros i contres de cada model (online vs. offline) des del punt de vista de seguretat, usabilitat i continuïtat del negoci.
 
 ### Bitwarden (Online)
@@ -61,10 +65,14 @@ Pros: Control absolut de la base de dades, independència total de servidors ext
 
 Contres: Sincronització complexa, dificultat per compartir claus en temps real i risc de pèrdua si no es fan backups locals.
 
+<br>
+
 ### 4. Recomanació: Concloeu l'informe escollint l'eina que considereu més adequada per al personal tècnic de l'empresa i justifiqueu la vostra elecció.
 
 Per al personal tècnic de l'empresa es recomana més el Bitwarden, ja que ofereix un equilibri ideal entre seguretat, operativitat i usabilitat. La seva sincronització automàtica entre navegadors i eines CLI agilitza el treball diari, permet compartir credencials d'infraestructura de forma segura entre companys i ofereix auditoria centralitzada.
 
+<br>
+<br>
 
 ## Fase 2: Guia d'Ús Tècnica (Manual Operatiu)
 #### Utilitzant l'eina que heu seleccionat a la Fase 1 (Bitwarden, KeePassX, o similar), heu de crear una Guia d'Ús per a l'Equip Tècnic. Aquesta guia ha de ser clara i basada en captures de pantalla i instruccions pas a pas.
