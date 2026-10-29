@@ -107,4 +107,3 @@ Per usar la versió instal·lable del gestor de contrasenyes es necessita una m�
 Redacta un primer document amb la comparativa i la justificació tècnica de l'eina escollida. Posteriorment, redacta un segon document amb la Guia d'Ús Tècnica per a l'Equip Tècnic.
 És important que els documents siguin clars, concisos i fàcils de seguir, amb captures de pantalla i instruccions pas a pas.
 
-
