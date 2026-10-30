@@ -126,18 +126,32 @@ Copiem la contrasenya per aixi posarla a altres credencials nostres.
 
     * Com fer servir l’extensió del navegador per emplenar automàticament les dades.
 
+        ![](/img/12.png)
+
+        Per fer servir Bitwarden has d'instalar la seva extensió al teu navegador.
+
+        ![](/img/13.png)
+
+        Fem la configuració de l'extensió.
+
 
 4. Gestió de Còpies de Seguretat (Backup):
     * Explicació detallada de com fer una còpia de seguretat de l'arxiu de contrasenyes (KDBX en KeePass o Exportació en Bitwarden).
 
+        ![](/img/15.jpg)
+
+        Entrem a l'opció d'exportar.
+
+        ![](/img/16.jpg)
+
+        Exportació del fitxer.
+
+        ![](/img/17.jpg)
+
+        Confirmació de l'exportació.
 
     * Recomanació de la millor pràctica per emmagatzemar aquesta còpia de seguretat de forma segura (clau USB xifrada o emmagatzematge xifrat al núvol).
 
+        ![](/img/14.png)
 
-### Entorn de treball
-Per usar la versió instal·lable del gestor de contrasenyes es necessita una màquina virtual Windows 11. En el cas de KeePassXC existeix una versió portable que es pot executar sense instal·lació, però es recomana la versió instal·lable per a una millor experiència d'usuari.
-
-### Documentació i Informe Final
-Redacta un primer document amb la comparativa i la justificació tècnica de l'eina escollida. Posteriorment, redacta un segon document amb la Guia d'Ús Tècnica per a l'Equip Tècnic.
-És important que els documents siguin clars, concisos i fàcils de seguir, amb captures de pantalla i instruccions pas a pas.
-
+        L'arxiu el pots guardar a un lloc on tinguis les teves contrasenyes o a un disc dur extern.
