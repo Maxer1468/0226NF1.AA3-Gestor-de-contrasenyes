@@ -138,20 +138,20 @@ Copiem la contrasenya per aixi posarla a altres credencials nostres.
 4. Gestió de Còpies de Seguretat (Backup):
     * Explicació detallada de com fer una còpia de seguretat de l'arxiu de contrasenyes (KDBX en KeePass o Exportació en Bitwarden).
 
-        <img src="/img/15.png" width="328" height="822">
+        <img src="/img/15.jpg" width="328" height="822">
 
         Entrem a l'opció d'exportar.
 
-        <img src="/img/16.png" width="793.5" height="320">
+        <img src="/img/16.jpg" width="793.5" height="320">
 
         Exportació del fitxer.
 
-        <img src="/img/17.png" width="428.5" height="560">
+        <img src="/img/17.jpg" width="428.5" height="560">
 
         Confirmació de l'exportació.
 
     * Recomanació de la millor pràctica per emmagatzemar aquesta còpia de seguretat de forma segura (clau USB xifrada o emmagatzematge xifrat al núvol).
 
-        <img src="/img/14.png" width="722.5" height="336">
+        <img src="/img/14.jpg" width="722.5" height="336">
 
         L'arxiu el pots guardar a un lloc on tinguis les teves contrasenyes o a un disc dur extern.
