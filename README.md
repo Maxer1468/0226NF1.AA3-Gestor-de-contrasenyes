@@ -79,16 +79,37 @@ Per al personal tècnic de l'empresa es recomana més el Bitwarden, ja que ofere
 La guia ha de cobrir els següents punts obligatoris:
 1. Instal·lació i Configuració Inicial: Descàrrega, instal·lació i creació de la BBDD principal o compte mestre.
 
+![](/img/1.png)
+
+![](/img/2.png)
+
+![](/img/3.png)
+
+![](/img/4.png)
 
 2. Generació de Contrasenyes Segures: Explicació de com utilitzar el generador de contrasenyes de l'eina (paràmetres, longitud, caràcters especials).
+
+![](/img/5.png)
+
+![](/img/6.png)
+
+![](/img/7.png)
+
+![](/img/8.png)
 
 
 3. Exemples d'Ús i Emplenament Automàtic:
     * Com desar una credencial d'un compte de correu electrònic.
 
+        ![](/img/9.png)
+
+        ![](/img/10.png)
 
     * Com desar una credencial d'una aplicació o servei web.
 
+        ![](/img/9.png)
+
+        ![](/img/11.png)
 
     * Com fer servir l’extensió del navegador per emplenar automàticament les dades.
 
